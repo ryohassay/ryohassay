@@ -4,6 +4,10 @@
 - Studying in Malaysia
 - Majors in electrical and electronic engineering
 
+- 日本出身の大学生
+- マレーシアで勉強中
+- 電気電子工学専攻
+
 ## Programming Languages and frameworks / 使えるプログラミング言語など
 - C++
 - Python
